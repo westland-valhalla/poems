@@ -1,0 +1,25 @@
+{
+  "name": "kreation",
+  "version": "1.0.3",
+  "description": "Who, constructing the world for herself or himself, understands, and in a balance; that it is all of us or none; that we must each strive to live above the common level of life,",
+  "main": "index.js",
+  "scripts": {
+    "build": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fantasyui-com/kosmos.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fantasyui-com/kosmos/issues"
+  },
+  "homepage": "https://github.com/fantasyui-com/kosmos#readme",
+  "dependencies": {
+    "handlebars": "^4.0.10",
+    "js-yaml": "^3.10.0",
+    "mkdirp": "^0.5.1"
+  }
+}
