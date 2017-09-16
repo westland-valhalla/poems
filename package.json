@@ -1,22 +1,22 @@
 {
-  "name": "kreation",
+  "name": "poems",
   "version": "1.0.5",
-  "description": "Who, constructing the world for herself or himself, understands, and in a balance; that it is all of us or none; that we must each strive to live above the common level of life,",
+  "description": "Poem Typography Framework.",
   "main": "index.js",
   "scripts": {
     "build": "node index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fantasyui-com/kosmos.git"
+    "url": "git+https://github.com/fantasyui-com/poems.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/fantasyui-com/kosmos/issues"
+    "url": "https://github.com/fantasyui-com/poems/issues"
   },
-  "homepage": "https://github.com/fantasyui-com/kosmos#readme",
+  "homepage": "https://github.com/fantasyui-com/poems#readme",
   "dependencies": {
     "handlebars": "^4.0.10",
     "js-yaml": "^3.10.0",
