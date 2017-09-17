@@ -6,6 +6,9 @@
   "scripts": {
     "build": "node index.js"
   },
+  "bin": {
+    "poems": "node cli.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/fantasyui-com/poems.git"
@@ -18,6 +21,7 @@
   },
   "homepage": "https://github.com/fantasyui-com/poems#readme",
   "dependencies": {
+    "commander": "^2.11.0",
     "handlebars": "^4.0.10",
     "js-yaml": "^3.10.0",
     "mkdirp": "^0.5.1"

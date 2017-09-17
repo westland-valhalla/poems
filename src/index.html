@@ -4,14 +4,13 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
   <meta name="description" content="" />
   <meta name="author" content="" />
-  <title></title>
+  <title>Poems</title>
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous" />
   <style>
     @import url('https://fonts.googleapis.com/css?family=Raleway');
     @import url('https://fonts.googleapis.com/css?family=Lato:300');
     .title {
       font-family: 'Raleway', sans-serif;
-      font-size: 1.5rem;
     }
     .byline {
       font-family: 'Raleway', sans-serif;
@@ -23,7 +22,7 @@
       font-family: 'Raleway', sans-serif;
     }
     .space {
-      margin-bottom: 8rem;
+      margin-bottom: 4rem;
     }
     .f1 { font-size: .7rem; }
     .f2 { font-size: .85rem; }
@@ -54,37 +53,43 @@
   <div class="container-fluid">
     <div class="row">
       <div class="col">
+
         <div class="poem mt-0 intro">
           <div class="space"></div>
           <div style="text-align: center; padding-top: 10rem;">
             <div class="f4 d-inline-block" style="text-align: left;">
               <p>
-                <h1 class="line display-2">{{info.title}}</h1>
-                <div class="line small">{{info.author}}</div>
+                <h1 class="line display-2">Poems</h1>
               </p>
             </div>
           </div>
         </div>
+
         <div class="poem mt-3 kosmos">
-          {{#each page}}
-          <div class="clearfix page-break f3">
-            <div class="title float-left">{{../info.title}}</div>
-            <div class="text-secondary byline float-right">Page {{number}}/{{numbers}}</div>
-          </div>
-          <div class="space"></div>
-          <div class="p-3" style="text-align: center;">
-            <div class="f2 d-inline-block" style="text-align: left; width: 50%;">
-              {{#each section}}
-                <p>
-                {{#each line}}
-                  <div class="line f3 mb-3">{{.}}</div>
-                {{/each}}
-                </p>
-              {{/each}}
+          {{#each poems}}
+
+            {{#each data}}
+            <div class="clearfix page-break f4">
+              <div class="title float-left">{{../meta.title}} <small>({{../meta.year}}) by {{../meta.author}}</small></div>
+              <div class="text-secondary byline float-right">Part {{number}}/{{numbers}}</div>
             </div>
-          </div>
+            <div class="space"></div>
+            <div class="p-3" style="text-align: center;">
+              <div class="f2 d-inline-block" style="text-align: left; width: 70%;">
+                {{#each page}}
+                  <p class="pb-1">
+                  {{#each section}}
+                    <div class="line f3 mb-3">{{.}}</div>
+                  {{/each}}
+                  </p>
+                {{/each}}
+              </div>
+            </div>
+            {{/each}}
+
           {{/each}}
         </div>
+
       </div>
     </div>
   </div>
