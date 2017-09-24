@@ -417,7 +417,7 @@ May we kindle our hearts in fellowship with those of a cheerful countenance, and
 
 May we help each other to maintain Honor untarnished and unsullied and to show forth in our lives the ideals we learned in doing our duty.
 
-All of which we ask in the names of those that came before us, of those who stand today, and those who are yet to come.
+All of which we ask in the names of those before us, of those who stand today, and those who are yet to rise.
 
 
 ## Promises to Keep (1922) by Robert Frost
