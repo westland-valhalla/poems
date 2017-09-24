@@ -8,21 +8,44 @@
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous" />
   <style>
     @import url('https://fonts.googleapis.com/css?family=Raleway');
-    @import url('https://fonts.googleapis.com/css?family=Lato:300');
-    .title {
-      font-family: 'Raleway', sans-serif;
+    @import url('https://fonts.googleapis.com/css?family=Lato:100');
+     @import url('https://fonts.googleapis.com/css?family=Merriweather');
+
+    .cover {
+      font-family: 'Lato', sans-serif;
+      font-weight: 100;
+      font-size: 9rem;
     }
+
+    .opening {
+      font-family: 'Lato', sans-serif;
+      font-weight: 100;
+      font-size: 1.4rem;
+    }
+
+    .opening  > * {
+      line-height: 3rem;
+    }
+
+    .title {
+      font-family: 'Lato', sans-serif;
+      font-weight: 100;
+      font-size: 4rem;
+    }
+
     .byline {
       font-family: 'Raleway', sans-serif;
     }
-    .lead {
-      font-family: 'Lato', sans-serif;
-    }
+
     .line {
-      font-family: 'Raleway', sans-serif;
+    x-font-family: 'Raleway', sans-serif;
+    font-family: 'Merriweather', serif;
+
+
     }
+
     .space {
-      margin-bottom: 4rem;
+      margin-bottom: 3rem;
     }
     .f1 { font-size: .7rem; }
     .f2 { font-size: .85rem; }
@@ -58,9 +81,11 @@
           <div class="space"></div>
           <div style="text-align: center; padding-top: 10rem;">
             <div class="f4 d-inline-block" style="text-align: left;">
-              <p>
-                <h1 class="line display-2">Poems</h1>
+
+              <p class="">
+                <h1 class="cover pt-3">Poems</h1>
               </p>
+
             </div>
           </div>
         </div>
@@ -69,13 +94,24 @@
           {{#each poems}}
 
             {{#each data}}
-            <div class="clearfix page-break f4">
-              <div class="title float-left">{{../meta.title}} <small>({{../meta.year}}) by {{../meta.author}}</small></div>
-              <div class="text-secondary byline float-right">Part {{number}}/{{numbers}}</div>
-            </div>
+            <div class="page-break">
+
+
+              <div class="title">{{../meta.title}}</div>
+              <div class="clearfix f4">
+                <div class="float-left">
+                  <small>{{../meta.year}}</small>
+                  <small>&middot; {{../meta.author}}</small>
+                  <small>&middot; {{../meta.who}}</small>
+                </div>
+                <div class="text-secondary byline float-right">Part {{number}}/{{numbers}}</div>
+              </div>
+
+
+            <div class="text-secondary small">{{../meta.note}}</div>
             <div class="space"></div>
             <div class="p-3" style="text-align: center;">
-              <div class="f2 d-inline-block" style="text-align: left; width: 70%;">
+              <div class="f2 d-inline-block" style="text-align: left; width: {{../meta.width}};">
                 {{#each page}}
                   <p class="pb-1">
                   {{#each section}}
@@ -85,6 +121,8 @@
                 {{/each}}
               </div>
             </div>
+
+          </div>
             {{/each}}
 
           {{/each}}

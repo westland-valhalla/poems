@@ -121,7 +121,7 @@ Be cheerful.
 Strive to be happy.
 
 
-## Dedication (1926) by Will Durant
+## Forever Love (1926) by Will Durant
 
 
 Grow strong, my comrade … that you may stand
@@ -247,16 +247,34 @@ I am the master of my fate:
 I am the captain of my soul.
 
 
-## John Galt's Speech (1957) by Ayn Rand
+## Your Destroyers (1957) by Ayn Rand
 
 
 To those of you who retain some remnant of dignity and the will to live your lives for yourselves, you have the chance to make the same choice. Examine your values and understand that you must choose one side or the other. Any compromise between good and evil only hurts the good and helps the evil.
 
-If you've understood what I've said, stop supporting your destroyers. Don't accept their philosophy. Your destroyers hold you by means of your endurance, your generosity, your innocence, and your love. Don't exhaust yourself to help build the kind of world that you see around you now. In the name of the best within you, don't sacrifice the world to those who will take away your happiness for it.
+If you've understood what I've said, stop supporting your destroyers.
+
+Don't accept their philosophy.
+
+
+Your destroyers hold you by means of your endurance, your generosity, your innocence, and your love.
+
+Don't exhaust yourself to help build the kind of world that you see around you now.
+
+In the name of the best within you, don't sacrifice the world to those who will take away your happiness for it.
+
 
 The world will change when you are ready to pronounce this oath:
 
 I swear by my Life and my love of it that I will never live for the sake of another man, nor ask another man to live for the sake of mine.
+
+
+## Make Me Young (1973) by Kurt Vonnegut Jr
+
+
+Here was what Kilgore Trout cried out to me in my father's voice:
+
+“Make me young, make me young, make me young!“
 
 
 ## Kosmos (1860) by Walt Whitman
@@ -323,7 +341,7 @@ at least fails while daring greatly,
 so that his place shall never be with those cold and timid souls who neither know victory nor defeat.
 
 
-## Kosmos (2017) by Dr. Meow
+## Kosmos (2017) by Andre
 
 
 Who, constructing the world for herself or himself, understands, and in a balance; that it is all of us or none; that we must each strive to live above the common level of life,
@@ -376,7 +394,33 @@ Who has compassion and enlightenment for all, and all that is all too human; and
 Who by wandering the world, saw ends in shortcuts and shortcuts as delayed ends; and discovered the only way, and the right way, is the longest possible way there.
 
 
-## Stopping by Woods on a Snowy Evening (1922) by Robert Frost
+## Secular Cadet (2017) by Anonymous
+
+
+We the warriors in pursuits of excellence, band together in sincerity and truth.
+
+May our philosophy be filled with power and may we connect in authenticity.
+
+May we strengthen and increase our admiration for honest dealing and clear thinking, and may our hatered of hypocrisy and pretence never diminish.
+
+May we inspire each other in our endeavor to live above the common levels of life.
+
+May we strengthen each other to choose the harder right instead of the easier wrong, and never to be content with a half truth even if the whole can't be won.
+
+May we endow each other with courage that is born of loyalty to all that is noble and worthy, that scorns to compromise with vice and injustice and knows no fear when truth and right are in jeopardy.
+
+May we guard each other against flippancy and irreverence in the sacred things of life.
+
+May we grant each other new ties of friendship and new opportunities for leadership or service.
+
+May we kindle our hearts in fellowship with those of a cheerful countenance, and soften our hearts with sympathy for those who sorrow and suffer.
+
+May we help each other to maintain Honor untarnished and unsullied and to show forth in our lives the ideals we learned in doing our duty.
+
+All of which we ask in the names of those that came before us, of those who stand today, and those who are yet to come.
+
+
+## Promises to Keep (1922) by Robert Frost
 
 
 Whose woods these are I think I know.
@@ -420,7 +464,9 @@ And miles to go before I sleep.
 
 I went to the woods because I wished to live deliberately, to front only the essential facts of life, and see if I could not learn what it had to teach, and not, when I came to die, discover that I had not lived.
 
+
 I did not wish to live what was not life, living is so dear; nor did I wish to practise resignation, unless it was quite necessary.
+
 
 I wanted to live deep and suck out all the marrow of life, to live so sturdily and Spartan-like as to put to rout all that was not life, to cut a broad swath and shave close, to drive life into a corner, and reduce it to its lowest terms...
 
