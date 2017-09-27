@@ -1,5 +1,21 @@
 # Poems
 
+## Drizzly November (1851) by Herman Melville
+
+
+Call me Ishmael. Some years ago—never mind how long precisely having little or no money in my purse, and nothing particular to interest me on shore, I thought I would sail about a little and see the watery part of the world.
+
+It is a way I have of driving off the spleen and regulating the circulation.
+
+Whenever I find myself growing grim about the mouth; whenever it is a damp, drizzly November in my soul; whenever I find myself involuntarily pausing before coffin warehouses, and bringing up the rear of every funeral I meet; and especially whenever my hypos get such an upper hand of me, that it requires a strong moral principle to prevent me from deliberately stepping into the street, and methodically knocking people’s hats off—then, I account it high time to get to sea as soon as I can.
+
+This is my substitute for pistol and ball.
+
+With a philosophical flourish Cato throws himself upon his sword; I quietly take to the ship.
+
+There is nothing surprising in this. If they but knew it, almost all men in their degree, some time or other, cherish very nearly the same feelings towards the ocean with me.
+
+
 ## Demon (1882) by Friedrich Nietzsche
 
 
@@ -392,6 +408,45 @@ Who believes we cannot be taught and it is up to each of us to seek out wisdom a
 Who has compassion and enlightenment for all, and all that is all too human; and will not force one thing to become two for shortcut's sake, and protect the sacred borders thereof.
 
 Who by wandering the world, saw ends in shortcuts and shortcuts as delayed ends; and discovered the only way, and the right way, is the longest possible way there.
+
+
+## A Red, Red Rose (1794) by Robert Burns
+
+
+O my Luve's like a red, red rose
+
+That's newly sprung in June;
+
+O my Luve's like the melodie
+
+That's sweetly play'd in tune.
+
+
+As fair art thou, my bonnie lass,
+
+So deep in luve am I:
+
+And I will luve thee still, my dear,
+
+Till a' the seas gang dry:
+
+
+Till a' the seas gang dry, my dear,
+
+And the rocks melt wi' the sun:
+
+I will luve thee still, my dear,
+
+While the sands o' life shall run.
+
+
+And fare thee well, my only Luve
+
+And fare thee well, a while!
+
+And I will come again, my Luve,
+
+Tho' it were ten thousand mile. 
 
 
 ## Secular Cadet (2017) by Anonymous
