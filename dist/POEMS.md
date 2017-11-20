@@ -1,6 +1,57 @@
 # Poems
 
-## Drizzly November (1851) by Herman Melville
+## Brave Man (1900) by Inazo Nitobe
+
+
+A truly brave man is ever serene; he is never taken by surprise; nothing ruffles the equanimity of his spirit.
+
+In the heat of battle he remains cool; in the midst of catastrophes he keeps level his mind.
+
+Earthquakes do not shake him, he laughs at storms.
+
+We admire him as truly great, who, in the menacing presence of danger or death, retains his self-possession; who, for instance, can compose a poem under impending peril or hum a strain in the face of death.
+
+Such indulgence betraying no tremor in the writing or in the voice, is taken as an infallible index of a large nature—of what we call a capacious mind, which, far from being pressed or crowded, has always room for something more.
+
+
+## Eight virtues of Bushido (1905) by Nitobe Inazo
+
+
+Righteousness
+
+Be acutely honest throughout your dealings with all people. Believe in justice, not from other people, but from yourself. To the true warrior, all points of view are deeply considered regarding honesty, justice and integrity. Warriors make a full commitment to their decisions.
+
+Heroic Courage
+
+Hiding like a turtle in a shell is not living at all. A true warrior must have heroic courage. It is absolutely risky. It is living life completely, fully and wonderfully. Heroic courage is not blind. It is intelligent and strong.
+
+Benevolence, Compassion
+
+Through intense training and hard work the true warrior becomes quick and strong. They are not as most people. They develop a power that must be used for good. They have compassion. They help their fellow men at every opportunity. If an opportunity does not arise, they go out of their way to find one.
+
+Respect
+
+True warriors have no reason to be cruel. They do not need to prove their strength. Warriors are not only respected for their strength in battle, but also by their dealings with others. The true strength of a warrior becomes apparent during difficult times.
+
+
+Integrity
+
+When warriors say that they will perform an action, it is as good as done. Nothing will stop them from completing what they say they will do. They do not have to 'give their word'. They do not have to 'promise'. Speaking and doing are the same action.
+
+Honour
+
+Warriors have only one judge of honor and character, and this is themselves. Decisions they make and how these decisions are carried out are a reflection of whom they truly are. You cannot hide from yourself.
+
+Duty and Loyalty
+
+Warriors are responsible for everything that they have done and everything that they have said, and all of the consequences that follow. They are immensely loyal to all of those in their care. To everyone that they are responsible for, they remain fiercely true.
+
+Self-Control
+
+Warriors feel more than others. This calmness of behavior and composure of mind is rooted in the choice of endurance without a groan, wisdom over ignorance, understanding over confrontation, love over anger, and unbreakability in the face of suffering and loneliness.
+
+
+## Call me Ishmael (1851) by Herman Melville
 
 
 Call me Ishmael. Some years ago—never mind how long precisely having little or no money in my purse, and nothing particular to interest me on shore, I thought I would sail about a little and see the watery part of the world.
@@ -137,20 +188,56 @@ Be cheerful.
 Strive to be happy.
 
 
-## Forever Love (1926) by Will Durant
+## Final Wisdom (1946) by Viktor Emil Frankl
 
 
-Grow strong, my comrade … that you may stand
+In spite of all the enforced physical and mental primitiveness of the life in a concentration camp, it was possible for spiritual life to deepen. Sensitive people who were used to a rich intellectual life may have suffered much pain (they were often of a delicate constitution), but the damage to their inner selves was less. They were able to retreat from their terrible surroundings to a life of inner riches and spiritual freedom.‎
 
-Unshaken when I fall; that I may know
 
-The shattered fragments of my song will come
+We who lived in concentration camps can remember the men who walked through the huts comforting others, giving away their last piece of bread. They may have been few in number, but they offer sufficient proof that everything can be taken from a man but one thing: the last of the human freedoms -- to choose one's attitude in any given set of circumstances, to choose one's own way.
 
-At last to finer melody in you;
 
-That I may tell my heart that you begin
+The way in which a man accepts his fate and all the suffering it entails, the way in which he takes up his cross, gives him ample opportunity — even under the most difficult circumstances — to add a deeper meaning to his life. It may remain brave, dignified and unselfish. Or in the bitter fight for self-preservation he may forget his human dignity and become no more than an animal.‎
 
-Where passing I leave off, and fathom more.”
+
+As we said before, any attempt to restore a man's inner strength in the camp had first to succeed in showing him some future goal. Nietzsche's words, "He who has a why to live for can bear with almost any how," could be the guiding motto for all psychotherapeutic and psychohygienic efforts regarding prisoners.‎
+
+
+The sort of person the prisoner became was the result of an inner decision, and not the result of camp influences alone. Fundamentally, therefore, any man can, even under such circumstances, decide what shall become of him — mentally and spiritually. He may retain his human dignity even in a concentration camp.‎
+
+
+... a thought transfixed me: for the first time in my life I saw the truth as it is set into song by so many poets, proclaimed as the final wisdom by so many thinkers. The truth — that love is the ultimate and the highest goal to which man can aspire.‎
+
+
+Instead of possibilities, I have realities in my past — not only the reality of work done and of love loved, but of suffering suffered. These are the things of which I am most proud —though these are things which cannot inspire envy.‎
+
+
+## Do Not Stand at My Grave and Weep (1932) by Mary Elizabeth Frye
+
+
+Do not stand at my grave and weep,
+
+I am not there; I do not sleep.
+
+I am a thousand winds that blow,
+
+I am the diamond glints on snow,
+
+I am the sun on ripened grain,
+
+I am the gentle autumn rain.
+
+When you awaken in the morning’s hush
+
+I am the swift uplifting rush
+
+Of quiet birds in circling flight.
+
+I am the soft star-shine at night.
+
+Do not stand at my grave and cry,
+
+I am not there; I did not die.
 
 
 ## If— (1895) by Rudyard Kipling
@@ -319,6 +406,26 @@ Who, constructing the house of himself or herself, not for a day but for all tim
 The past, the future, dwelling there, like space, inseparable together.
 
 
+## As Young As Your Faith (1930) by Douglas MacArthur
+
+
+People grow old only by deserting their ideals, Macarthur had written.
+
+Years may wrinkle the skin, but to give up interest wrinkles the soul.
+
+You are as young as your faith, as old as your doubt; as young as your self-confidence, as old as your fear; as young as your hope as old as your despair.
+
+
+In the central place of every heart there is a recording chamber.
+
+So long as it receives messages of beauty, hope, cheer and courage, so long are you young.
+
+When your heart is covered with the snows of pessimism and the ice of cynicism, then, and then only, are you grown old.
+
+
+And then, indeed as the ballad says, you just fade away.
+
+
 ## The Man in the Arena (1910) by Theodore Roosevelt
 
 
@@ -410,6 +517,24 @@ Who has compassion and enlightenment for all, and all that is all too human; and
 Who by wandering the world, saw ends in shortcuts and shortcuts as delayed ends; and discovered the only way, and the right way, is the longest possible way there.
 
 
+## Live for Something (1944) by George Smith Patton, Jr
+
+
+A man must know his destiny. if he does not recognize it, then he is lost. By this I mean, once, twice, or at the very most, three times, fate will reach out and tap a man on the shoulder. if he has the imagination, he will turn around and fate will point out to him what fork in the road he should take, if he has the guts, he will take it.
+
+It’s the unconquerable soul of man, not the nature of the weapon he uses, that insures victory.
+
+Moral courage is the most valuable and usually the most absent characteristic in men.
+
+By perseverance, study, and eternal desire, any man can become great.
+
+An incessant change of means to attain unalterable ends is always going on; we must take care not to let these sundry means undo eminence in the perspective of our minds; for, since the beginning, there has been an unending cycle of them, and for each its advocates have claimed adoption as the sole solution of successful war.
+
+Live for something rather than die for nothing.
+
+You’re never beaten until you admit it.
+
+
 ## A Red, Red Rose (1794) by Robert Burns
 
 
@@ -475,7 +600,7 @@ May we help each other to maintain Honor untarnished and unsullied and to show f
 All of which we ask in the names of those before us, of those who stand today, and those who are yet to rise.
 
 
-## Promises to Keep (1922) by Robert Frost
+## Snowy Evening (1922) by Robert Frost
 
 
 Whose woods these are I think I know.
@@ -512,6 +637,39 @@ But I have promises to keep,
 And miles to go before I sleep,
 
 And miles to go before I sleep.
+
+
+## Don't Aim At Success. (1946) by Viktor E. Frankl
+
+
+Don't aim at success.
+
+The more you aim at it and make it a target, the more you are going to miss it.
+
+For success, like happiness, cannot be pursued; it must ensue, and it only does so as the unintended side effect of one's personal dedication to a cause greater than oneself or as the by-product of one's surrender to a person other than oneself.
+
+Happiness must happen, and the same holds for success: you have to let it happen by not caring about it.
+
+
+I want you to listen to what your conscience commands you to do and go on to carry it out to the best of your knowledge.
+
+Then you will live to see that in the long-run—in the long-run, I say! — success will follow you precisely because you had forgotten to think about it.
+
+
+## To My Wife (1926) by Will Durant
+
+
+Grow strong, my comrade … that you may stand
+
+Unshaken when I fall; that I may know
+
+The shattered fragments of my song will come
+
+At last to finer melody in you;
+
+That I may tell my heart that you begin
+
+Where passing I leave off, and fathom more.”
 
 
 ## I Went To The Woods (1854) by Henry David Thoreau

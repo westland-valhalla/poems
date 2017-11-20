@@ -4,7 +4,7 @@
   "description": "Poem Typography Framework.",
   "main": "index.js",
   "scripts": {
-    "build": "node index.js"
+    "build": "node cli.js samples/*"
   },
   "bin": {
     "poems": "node cli.js"
