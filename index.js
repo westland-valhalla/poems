@@ -4,10 +4,12 @@
  * Module dependencies.
  */
 
+ const fs = require('fs');
+ const kebabCase = require('lodash/kebabCase');
+
 const yaml = require('js-yaml');
 const path = require('path');
 const mkdirp = require('mkdirp');
-const fs = require('fs');
 
 
 
@@ -45,11 +47,13 @@ hbs.registerHelper('price', function(amount) {
 function main({poems}){
 
   mkdirp.sync( path.join(__dirname, 'dist') );
+  mkdirp.sync( path.join(__dirname, 'dist/poems') );
 
 
 
   let md = `# Poems\n\n`;
   poems.forEach(poem=>{
+
     md = md + `## ${poem.meta.title} (${poem.meta.year}) by ${poem.meta.author}\n\n`;
     poem.data.forEach(poem => {
       poem.page.forEach(page => {
@@ -62,6 +66,28 @@ function main({poems}){
     md = md + '\n';
   });
   fs.writeFileSync(path.join(__dirname, 'dist', 'POEMS.md'), md)
+
+  poems.forEach(poem=>{
+
+
+    let md = ``;
+    md = md + `# ${poem.meta.title}\n\n`;
+
+    poem.data.forEach(poem => {
+      poem.page.forEach(page => {
+        md = md + '\n';
+        page.section.forEach(line => {
+          md = md + line + '\n\n';
+        });
+      });
+    });
+    md = md + '\n';
+    md = md + '----\n\n\n';
+    md = md + `Written in ${poem.meta.year} by ${poem.meta.author}\n\n`;
+    md = md + `${poem.meta.who}\n\n`;
+
+    fs.writeFileSync(path.join(__dirname, 'dist/poems', kebabCase(poem.meta.title)+'.md'), md)
+  });
 
 
   const source = fs.readFileSync( path.join(__dirname, 'src', 'index.html'), 'utf8')
