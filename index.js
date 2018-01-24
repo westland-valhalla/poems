@@ -47,7 +47,8 @@ hbs.registerHelper('price', function(amount) {
 function main({poems}){
 
   mkdirp.sync( path.join(__dirname, 'dist') );
-  mkdirp.sync( path.join(__dirname, 'dist/poems') );
+  mkdirp.sync( path.join(__dirname, 'dist/poems-md') );
+  mkdirp.sync( path.join(__dirname, 'dist/poems-txt') );
 
 
 
@@ -84,9 +85,31 @@ function main({poems}){
     md = md + '\n';
     md = md + '----\n\n\n';
     md = md + `Written in ${poem.meta.year} by ${poem.meta.author}\n\n`;
-    md = md + `${poem.meta.who}\n\n`;
+    md = md + `${poem.meta.who||""}\n\n`;
 
-    fs.writeFileSync(path.join(__dirname, 'dist/poems', kebabCase(poem.meta.title)+'.md'), md)
+    fs.writeFileSync(path.join(__dirname, 'dist/poems-md', kebabCase(poem.meta.title)+'.md'), md)
+  });
+
+  poems.forEach(poem=>{
+
+
+    let md = ``;
+    md = md + `${poem.meta.title}\n`;
+
+    poem.data.forEach(poem => {
+      poem.page.forEach(page => {
+        md = md + '\n';
+        page.section.forEach(line => {
+          md = md + line + '\n';
+        });
+      });
+    });
+    md = md + '\n';
+    md = md + '----\n';
+    md = md + `Written in ${poem.meta.year} by ${poem.meta.author}\n`;
+    md = md + `${poem.meta.who||""}\n`;
+
+    fs.writeFileSync(path.join(__dirname, 'dist/poems-txt', kebabCase(poem.meta.title)+'.txt'), md)
   });
 
 

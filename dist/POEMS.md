@@ -464,7 +464,7 @@ at least fails while daring greatly,
 so that his place shall never be with those cold and timid souls who neither know victory nor defeat.
 
 
-## Kosmos (2017) by Andre
+## My Kosmos (2017) by Andre
 
 
 Who, constructing the world for herself or himself, understands, and in a balance; that it is all of us or none; that we must each strive to live above the common level of life,
