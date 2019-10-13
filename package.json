@@ -21,8 +21,8 @@
   },
   "homepage": "https://github.com/fantasyui-com/poems#readme",
   "dependencies": {
-    "commander": "^2.20.0",
-    "handlebars": "^4.3.1",
+    "commander": "^2.20.3",
+    "handlebars": "^4.4.3",
     "js-yaml": "^3.13.1",
     "lodash": "^4.17.15",
     "mkdirp": "^0.5.1"
